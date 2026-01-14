@@ -9,9 +9,9 @@ A full-stack inventory management system built using **React, Node.js, Express, 
 - **Analytics:** Dashboard with KPIs & Charts (Recharts)
 - **Data:** CSV Import / Export (Admin) & Secure REST APIs
 
-![Dashboard](Images/dashboard.jpg)
-![Products](Images/products.jpg)
-![sales](Images/sales.jpg)
+![Dashboard](Images/dashboard1.jpg)
+![Products](Images/products1.jpg)
+![sales](Images/sales1.jpg)
 
 ## Tech Stack
 - **Frontend:** React (Vite), Tailwind CSS, Axios
@@ -24,7 +24,7 @@ A full-stack inventory management system built using **React, Node.js, Express, 
 - Role-based authorization
 - Modular backend & service-based frontend
 
-![Architecture Diagram](Images/architecture.png)
+![Architecture Diagram](Images/architecture1.png)
 
 ---
 
